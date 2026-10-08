@@ -8,3 +8,7 @@ Tras copiar los agentes, el orchestrator ofreció "arrancar con el bloque que qu
 
 ## 2026-10-08 · setup · `CLAUDE.md` no existía
 El pedido mencionaba "el paso 1 del CLAUDE.md", pero el repo no tiene `CLAUDE.md`. Los pasos del flujo hay que definirlos (o pegarlos) antes de depender de ellos. Se creó `CLAUDE.md` con el flujo propuesto por el orchestrator (a revisar por el usuario).
+
+## 2026-10-08 · setup · los agentes de `.claude/agents/` no cargan en la sesión en curso
+La sesión arrancó antes de que existieran los archivos, así que `designer` no se encontró como tipo de agente. Se usó un agente genérico instruido a leer `designer.md`. Diferencia: el genérico no tiene las herramientas restringidas del definido.
+- **Cambio:** para que carguen bien, abrir una sesión nueva sobre la carpeta `mi-app`.

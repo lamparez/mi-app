@@ -24,6 +24,20 @@ Hilo emocional: **Outer Wilds** como canto a la curiosidad y la exploración. Va
 | 2 | Exploración terrestre | Reflexivo / humanístico | La exploración expandiendo los límites de lo humano. Magallanes y el mar profundo son **ejemplos posibles, no el punto**: el `researcher` puede proponer otros mejores. **No** es historia espacial. |
 | 3 | Carrera espacial hoy | Técnico con asombro | Estado actual, hitos próximos, horizontes especulativos. Contado como momento histórico en curso. |
 
+## Estructura de slides (aprobada, 8 slides, ~15 min)
+| # | Bloque | Idea | Tiempo |
+|---|--------|------|--------|
+| 1 | Apertura | Pregunta simple que abre el viaje; oscuridad que se va encendiendo. | ~1 min |
+| 2 | 1 · Evocativo | **Outer Wilds**: la historia personal con el juego + quote de los Nomai sobre curiosidad (verificado). El gran puntapié. | ~2 min |
+| 3 | 1 · Evocativo | **Otras ficciones de exploración que el presentador ama**: *No Man's Sky* (exploración pura, estética muy distinta a Outer Wilds), Andy Weir (*Project Hail Mary* como favorita, *The Martian*), *Rendezvous with Rama* (gustó, menos que PHM). Asimov: gustó poco, queda afuera. Tolkien y Pratchett son sus autores favoritos pero están fuera de tema: como mucho, un guiño de una línea ("vengo de la fantasía"). Selección final a confirmar. | ~1,5 min |
+| 4 | 2 · Humanístico | La exploración corriendo el límite de lo posible para el ser humano: primer ejemplo (lo propone el `researcher`). | ~2 min |
+| 5 | 2 · Humanístico | Segundo ejemplo, de distinta naturaleza: el patrón se repite (lo propone el `researcher`). | ~2 min |
+| 6 | 3 · Técnico | **Hoy**: qué pasa ahora en la carrera espacial y por qué es histórico. Lo que más fanatiza al presentador: **SpaceX y Starship**, porque es exploración humana. | ~2,5 min |
+| 7 | 3 · Técnico | **Lo que viene**: hitos próximos y horizontes (PLAN o ESPECULACIÓN). Segundo interés del presentador: **nuevas sondas y supertelescopios** que dejan ver el más allá. | ~2,5 min |
+| 8 | Cierre | La tesis: curiosidad → descubrimiento → ciencia; vivimos un capítulo grande. | ~1,5 min |
+
+Transiciones: no cortes; un solo viaje donde cada pasaje cambia de escala o de luz (cielo nocturno → mapa/océano → zoom al espacio real). Las concreta el `designer`.
+
 ## Reglas de contenido
 - **No** usar hitos que la audiencia no vive como propios (Pathfinder, Columbia, Curiosity): no los conocen. El ancla es lo que se pueda entender sin contexto.
 - Toda cifra o fecha pasa por `researcher`, con fuente y clasificación HECHO / PLAN / ESPECULACIÓN. El quote de los Nomai se verifica, no se cita de memoria.
@@ -36,7 +50,9 @@ Hilo emocional: **Outer Wilds** como canto a la curiosidad y la exploración. Va
 - Legible a 4 metros; contraste para proyector mediocre.
 
 ## Abierto (a resolver)
-1. Cantidad exacta de slides: 8 propuesto (2-2-2 + apertura + cierre), a validar contra los 15 min.
-2. Qué ejemplos concretos usa el bloque 2 (Magallanes y mar profundo son punto de partida).
-3. Qué queda afuera.
-4. Cómo se conectan los bloques entre sí (la tesis ayuda; falta definir las transiciones, que además son lo dinámico del formato).
+1. Selección final de ficciones para la slide 3 (una sola idea por slide).
+2. Ejemplos del bloque 2: los trae el `researcher` (sorpresa deseada); Magallanes y mar profundo son punto de partida, no obligación.
+3. Cómo se reparten Starship y sondas/telescopios entre las slides 6 y 7.
+4. Qué queda afuera: Asimov, y Tolkien/Pratchett salvo un guiño.
+
+Resuelto: dirección visual = A, ver `design-system.md`.
